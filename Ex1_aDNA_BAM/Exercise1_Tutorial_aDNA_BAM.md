@@ -52,8 +52,7 @@ Reports generated in Qualimap (http://qualimap.bioinfo.cipf.es/) are stored in f
 ### 1.1 Visualizing the BAM alignment
 Open the Tablet program on your computer. Click on the **Open Assembly** button. Navigate to the folder for Excercise 1 Select `IndA.bam` as your primary assembly and`rCRS.fasta` as the reference file. Click on the **Open** button at the far right end of the menu.
 
-![Screen Shot 2019-04-10 at 3.14.30 PM.png](images/1579DB95C8386B2C35B5699613703DE5.png =1293x734)
-
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex1_aDNA_BAM/images/1579DB95C8386B2C35B5699613703DE5.png)
 
 &nbsp;
 
