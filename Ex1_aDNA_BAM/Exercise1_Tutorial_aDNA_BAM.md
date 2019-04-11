@@ -58,12 +58,12 @@ Open the Tablet program on your computer. Click on the **Open Assembly** button.
 
 Once the BAM file loads into Tablet the program will prompt you to select the contig at the far left of the screen. You should now be able to see the reads aligned to the reference.
 
-![Screen Shot 2019-04-10 at 3.18.21 PM.png](images/563E237605B31EC40562CDF03447C999.png =1370x829)
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex1_aDNA_BAM/images/563E237605B31EC40562CDF03447C999.png)
 
 &nbsp;
 You can explore the alignment with the **Zoom** and **Variants** options under the **Adjust** toolbar at the top of the screen. Once you feel comfortable navigating the alignment click on the **Jump to Base** button under the **Navigate** tooblar. Next, enter the number 6686 and Click on the **Padded Jump** button. This will take us to position 6,686 of the mtDNA genome. 
 
-![Screen Shot 2019-04-10 at 3.48.05 PM.png](images/9DC421D15EF3B7BF51C3FB88BF56A7F6.png =1192x691)
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex1_aDNA_BAM/images/9DC421D15EF3B7BF51C3FB88BF56A7F6.png)
 
 &nbsp;
 **Observe the alignment and answer the following questions:**
