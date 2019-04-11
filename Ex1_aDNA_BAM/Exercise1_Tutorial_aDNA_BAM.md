@@ -1,9 +1,8 @@
-# Curso de Paleogenómica y Antropología ENAH 2019
+# Curso de Paleogenómica y Antropología ENAH Mayo 2019
 
 ## __Exercise 1: Visualizing and performing QC analysis on aDNA BAM files__
 
 **Author:** Maria Nieves Colón (maria.nieves@cinvestav.mx / mnievesc@asu.edu)
-**Date:** April 2019
 
 ---
 ### Learning Objectives:
@@ -38,11 +37,6 @@ The BAM files contain ancient DNA read mapped to the mitochondrial human genome 
 
 #### 2. MtDNA reference genome FASTA file: `rCRS.fasta` and index `rCRS.fasta.fai`. 
 The reference genome has been previously indexed using command `samtools index rCRS.fasta`.
-
-
-#### 3. Qualimap PDF reports
-Reports generated in Qualimap (http://qualimap.bioinfo.cipf.es/) are stored in folder QualimapReports.
-
 
 &nbsp;
 
