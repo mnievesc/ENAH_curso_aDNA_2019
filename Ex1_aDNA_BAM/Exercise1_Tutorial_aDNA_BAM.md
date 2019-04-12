@@ -94,6 +94,7 @@ Navigate to the folder **QualimapReports**. This contains 3 PDF reports generate
 
 * Which sample has the largest read length? Does this fit expectations for aDNA?
 * How does coverage differ from read depth? 
+* What is the difference between coverage and endogenous content?
 
 &nbsp;
 
