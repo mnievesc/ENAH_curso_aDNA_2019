@@ -169,11 +169,11 @@ In the time we have left, research the evolutionary history of IndA's mtDNA line
 &nbsp;
 
 **Additional useful tools for exploring human mtDNA variation:**
-* Haplofind, for assigning mtDNA haplogroups using FASTA files as input: https://haplofind.unibo.it/
-* Mitomap, an overview of diagnostic haplogroup mutations: https://www.mitomap.org/foswiki/bin/view/MITOMAP/HaplogroupMarkers
-* Mitomap GB database, a searchable database of mtDNA genomes submitted to Genbank (organized by haplogroup): https://www.mitomap.org/foswiki/bin/view/MITOMAP/GBFreqInfo
-* Mitotool, for assigning mtDNA haplogroups using FASTA and polymorphism data, also has a searchable Genbank database: http://www.mitotool.org/index.html
-* AmtDB, ancient mtDNA gneome database (mostly from Europe): https://amtdb.org/
+* *Haplofind*, for assigning mtDNA haplogroups using FASTA files as input: https://haplofind.unibo.it/
+* *Mitomap*, an overview of diagnostic haplogroup mutations: https://www.mitomap.org/foswiki/bin/view/MITOMAP/HaplogroupMarkers
+* *Mitomap* GB database, a searchable database of mtDNA genomes submitted to Genbank (organized by haplogroup): https://www.mitomap.org/foswiki/bin/view/MITOMAP/GBFreqInfo
+* *Mitotool*, for assigning mtDNA haplogroups using FASTA and polymorphism data, also has a searchable Genbank database: http://www.mitotool.org/index.html
+* *AmtDB*, ancient mtDNA gneome database (mostly from Europe): https://amtdb.org/
 
 
 ---
