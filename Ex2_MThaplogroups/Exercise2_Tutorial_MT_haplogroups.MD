@@ -41,6 +41,7 @@ For more in-depth discussion on the VCF format and how to filter variant calls a
 * What other quality metrics may be useful for filtering ancient DNA datasets?
 * Optional: Search for the manuals for SAMtools and bcftools online. What is the command above doing?
 
+&nbsp;
 
 ---
 
@@ -54,23 +55,25 @@ On the HaploGrep home page, click on the prompt that says **Run HaploGrep**. Nex
 ![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-11%20at%2012.08.16%20PM.png)
 
 &nbsp;
-After the file loads, in the top window you will see a list of all the polymorphisms present in the sample. This list is taken directly from the input file, in our case the coverage filtered VCF. In addition to VCF, HaploGrep also accepts other formats including HSD and FASTA files. See the manual and blog for specifications.
 
+After the file loads, in the top window you will see a list of all the polymorphisms present in the sample. This list is taken directly from the input file, in our case the coverage filtered VCF. In addition to VCF, HaploGrep also accepts other formats including HSD and FASTA files. See the manual and blog for specifications.
 
 ![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-11%20at%2012.14.44%20PM.png)
 
 &nbsp;
-You will also see that HaploGrep presents the most probably haplogroup assignment and the quality of the estimation. Confidence in this estimation is shown with color as listed in the HaploGrep manual.
 
+You will also see that HaploGrep presents the most probably haplogroup assignment and the quality of the estimation. Confidence in this estimation is shown with color as listed in the HaploGrep manual.
 
 ![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-11%20at%2012.32.03%20PM.png)
 
 &nbsp;
+
 Other potential haplogroup assignments ranked by score are shown in the second window to the left, along with their overall quality. This blog post explains how the quality scores are calculated: http://haplogrep.uibk.ac.at/blog/explaining-the-formula/. The windows on the bottom left of the screen list the **Expected** diagnostic polymorphisms required for assignment to each haplogroup, and wether or not these are present in our sample (**Found**). Other remaining polymorphisms are listed in the next window. These are classified in three categories as listed in the manual:
 
 ![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-11%20at%2012.40.47%20PM.png)
 
 &nbsp;
+
 Lastly, the center window displays a graph showing the lineage path from the rCRS reference to the currently selected haplogroup.  The polymorphisms are color-coded as follows:
 
 ![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-11%20at%2012.48.00%20PM.png)
@@ -84,6 +87,7 @@ Remember, although the algorithm provides an initial assessment, **you**, the en
 * Why do you think it may be useful to look at the **Remaining** polymorphism window?
 
 &nbsp;
+
 HaploGrep can export the analysis results in several formats. To see them, click on the **Export** button in the top part of the screen. Today, we will export the results as _Haplogroups(hsd)_. The HSD lists the results as follows: the first column contains the sample ID, the second column specifies the targeted genetic region, the third column lists the assigned haplogroup status and then the polymorphisms are indicated separated by tab stops.
 
 ![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-12%20at%203.19.46%20PM.png)
