@@ -35,12 +35,11 @@ The variant call format (VCF) is a text file that contains information on DNA po
 For more in-depth discussion on the VCF format and how to filter variant calls access this tutorial: https://github.com/mnievesc/AAAGs_2018/tree/master/Session3_VCFFormat
 
 &nbsp;
+
 **Questions to consider:**
 * Why do you think we filtered our dataset with a 1x read depth threshold filter?
 * What other quality metrics may be useful for filtering ancient DNA datasets?
 * Optional: Search for the manuals for SAMtools and bcftools online. What is the command above doing?
-
-&nbsp;
 
 
 ---
