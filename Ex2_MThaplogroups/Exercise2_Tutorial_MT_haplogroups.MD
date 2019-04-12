@@ -109,12 +109,14 @@ Once we have determined which mtDNA haplogroups are present in our samples, our 
 To start, let's refresh our memory of the present-day worldwide distribution of mtDNA haplogroups:
 
 ![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/MTtree.gif)
+
 &nbsp;
 
 Notice that this map only lists haplogroups, but our HaploGrep assignments are more specific, down to the sub-haplogroup level. This is because each lineage has additional mutations which further define their place within the broader haplogroup clade. To learn more about each sub-haplogroup and we can use Phylotree. Phylotree is the most comprehensive phylogenetic tree of worldwide human mitochondrial DNA variation. It lists over 5,400 haplogroups with their defining mutations, and is constantly being updated as more sequences are published. To access Phylotree navigate to their homepage: http://www.phylotree.org/ and click on the link for the most recent tree **mtDNA tree Build 17**. This will take us the an interactive human mtDNA tree. Next, let's click on the subtree that contains the haplogroup assigned to IndA.
 
 
 ![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-12%20at%203.40.16%20PM.png)
+
 &nbsp;
 
 **Explore Phylotree and answer the following questions:**
