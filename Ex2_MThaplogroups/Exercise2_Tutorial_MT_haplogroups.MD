@@ -52,29 +52,29 @@ To access HaploGrep open your online browser and navigate to this website: http:
 
 On the HaploGrep home page, click on the prompt that says **Run HaploGrep**. Next, click on the **Open** button on the top left of the screen and choose file `IndA.covfilt.vcf` as input.
 
-INSERT SCREENSHOT 1
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-11%20at%2012.08.16%20PM.png)
 
 &nbsp;
 After the file loads, in the top window you will see a list of all the polymorphisms present in the sample. This list is taken directly from the input file, in our case the coverage filtered VCF. In addition to VCF, HaploGrep also accepts other formats including HSD and FASTA files. See the manual and blog for specifications.
 
 
-INSERT SCREENSHOT 2
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-11%20at%2012.14.44%20PM.png)
 
 &nbsp;
 You will also see that HaploGrep presents the most probably haplogroup assignment and the quality of the estimation. Confidence in this estimation is shown with color as listed in the HaploGrep manual.
 
 
-INSERT SCREENSHOT 3
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-11%20at%2012.32.03%20PM.png)
 
 &nbsp;
 Other potential haplogroup assignments ranked by score are shown in the second window to the left, along with their overall quality. This blog post explains how the quality scores are calculated: http://haplogrep.uibk.ac.at/blog/explaining-the-formula/. The windows on the bottom left of the screen list the **Expected** diagnostic polymorphisms required for assignment to each haplogroup, and wether or not these are present in our sample (**Found**). Other remaining polymorphisms are listed in the next window. These are classified in three categories as listed in the manual:
 
-INSERT SCREENSHOT 4
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-11%20at%2012.40.47%20PM.png)
 
 &nbsp;
 Lastly, the center window displays a graph showing the lineage path from the rCRS reference to the currently selected haplogroup.  The polymorphisms are color-coded as follows:
 
-INSERT SCREENSHOT 5
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-11%20at%2012.48.00%20PM.png)
 
 &nbsp;
 
@@ -87,15 +87,13 @@ Remember, although the algorithm provides an initial assessment, **you**, the en
 &nbsp;
 HaploGrep can export the analysis results in several formats. To see them, click on the **Export** button in the top part of the screen. Today, we will export the results as _Haplogroups(hsd)_. The HSD lists the results as follows: the first column contains the sample ID, the second column specifies the targeted genetic region, the third column lists the assigned haplogroup status and then the polymorphisms are indicated separated by tab stops.
 
-
-INSERT SCREENSHOT 6
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-12%20at%203.19.46%20PM.png)
 
 &nbsp;
 
 **Now, repeat these steps using the coverage filtered VCF for IndB and IndC as input and answer the following questions:**
 * Which haplogroups are the most probable assignments for IndB and IndC?
 * Is there any result that seems unexpected? Why do you think this is the case?
-
 
 
 &nbsp;
@@ -107,13 +105,13 @@ Once we have determined which mtDNA haplogroups are present in our samples, our 
 
 To start, let's refresh our memory of the present-day worldwide distribution of mtDNA haplogroups:
 
-INSERT MAP
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/MTtree.gif)
 &nbsp;
 
 Notice that this map only lists haplogroups, but our HaploGrep assignments are more specific, down to the sub-haplogroup level. This is because each lineage has additional mutations which further define their place within the broader haplogroup clade. To learn more about each sub-haplogroup and we can use Phylotree. Phylotree is the most comprehensive phylogenetic tree of worldwide human mitochondrial DNA variation. It lists over 5,400 haplogroups with their defining mutations, and is constantly being updated as more sequences are published. To access Phylotree navigate to their homepage: http://www.phylotree.org/ and click on the link for the most recent tree **mtDNA tree Build 17**. This will take us the an interactive human mtDNA tree. Next, let's click on the subtree that contains the haplogroup assigned to IndA.
 
 
-INSERT phylotree IMAGE
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-12%20at%203.40.16%20PM.png)
 &nbsp;
 
 **Explore Phylotree and answer the following questions:**
@@ -130,18 +128,17 @@ Now that we are well acquainted with the mtDNA lineages present in our samples a
 
 Navigate to the EMPOP website: https://empop.online. Login using your credentials. Once logged in click on the **Tools** button and navigate to the **Haplogroup Browser**.
 
-INSERT SCREENSHOT 1 HAPLO BROWSERS
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-12%20at%204.26.27%20PM.png)
 
 
 &nbsp;
 
 Search for the haplogroup assigned to IndA by navigating the human mtDNA tree in the browser. Alternatively you can enter the haplogroup name in the **Jump to haplogroup** box to search directly.
 
-INSERT screenshot haplo browser 2
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex2_MThaplogroups/images/Screen%20Shot%202019-04-12%20at%204.42.56%20PM.png)
 
 
 &nbsp;
-
 
 
 **Explore the search results and answer the following questions:**
