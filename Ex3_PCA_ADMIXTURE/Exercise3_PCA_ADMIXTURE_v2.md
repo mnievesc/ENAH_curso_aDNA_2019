@@ -94,13 +94,12 @@ Scripts for generating PCA and ADMIXTURE plots.
 ### 3.1 The research question: What do we want to know?
 Any ancient DNA study must begin with a **clearly defined research question**. The question will guide us in formulating and testing hypotheses, designing sampling strategies and choosing an analytical framework. In this exercise, we will analyze ancient DNA genotypes to revisit a very old question in the anthropology of the Americas: the "Paleoamerican" model. We will replicate analyses conducted in _Raghavan et al. 2015. "Genomic evidence for the Pleistocene and recent population history of Native Americans". Science 349 (6250): aab3884._. In this study the researchers used ancient DNA to test if Pleistocene Native American peoples were more closely related to present-day Australo-Melanesians than to today's Indigenous American communities.
 
-![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex3_PCA_ADMIXTURE/images/927432-7fab383de04cbc6b3f991cd0e69591cc.jpg)
-
 &nbsp;
 
 ### Some background
 The Paleoamerican model proposes that the Americas were peopled in two major migration waves of distinct peoples. It is based on several findings of Late Pleistocene human skeletal remains across the Americas with cranial morphologies that are distinctive from those of present-day Native Americans. Examples of individuals attributed to this very early migration include the 12,000 year old skeleton of Luzia found in Lagoa Santa in Brazil, and Pleistocene peoples excavated in Pericúes and Fuego-Patagonian archaeological contexts in Mexico, Argentina and Chile. Based on morphological analyses, these individuals have been hypothesized to represent a very early migration of peoples from Asia who were closely related to the ancestors of present-day Oceanian communities, specifically, Australo-Melanesians.
 
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex3_PCA_ADMIXTURE/images/F1.large.jpg)
 
 &nbsp;
 ### Testing the Paleoamerican model
