@@ -1,0 +1,893 @@
+PopID	IndID	Country	PCALabelID	AdmixtureLabelID	OrderAdmixture
+Mozabite	HGDP01253	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01254	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01255	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01256	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01257	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01258	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01259	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01262	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01263	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01264	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01265	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01268	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01272	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01274	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01275	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01276	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01277	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01278	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01279	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01280	Algeria	Africa	Africa	1_Africa
+Mozabite	HGDP01282	Algeria	Africa	Africa	1_Africa
+BantuSA_Ovambo	HGDP01031	Angola	Africa	Africa	1_Africa
+BantuSA	HGDP01030	Botswana	Africa	Africa	1_Africa
+BantuSA	HGDP01034	Botswana	Africa	Africa	1_Africa
+Biaka	HGDP00454	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00455	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00457	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00458	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00459	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00460	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00461	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00464	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00465	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00466	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00469	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00470	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00472	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00473	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00475	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00985	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP00986	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP01086	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP01090	Central African Republic	Africa	Africa	1_Africa
+Biaka	HGDP01094	Central African Republic	Africa	Africa	1_Africa
+Mbuti	HGDP00449	Congo	Africa	Africa	1_Africa
+Mbuti	HGDP00462	Congo	Africa	Africa	1_Africa
+Mbuti	HGDP00463	Congo	Africa	Africa	1_Africa
+Mbuti	HGDP00467	Congo	Africa	Africa	1_Africa
+Mbuti	HGDP00474	Congo	Africa	Africa	1_Africa
+Mbuti	HGDP00476	Congo	Africa	Africa	1_Africa
+Mbuti	HGDP00478	Congo	Africa	Africa	1_Africa
+Mbuti	HGDP00982	Congo	Africa	Africa	1_Africa
+Mbuti	HGDP00984	Congo	Africa	Africa	1_Africa
+Mbuti	HGDP01081	Congo	Africa	Africa	1_Africa
+BantuKenya	HGDP01405	Kenya	Africa	Africa	1_Africa
+BantuKenya	HGDP01408	Kenya	Africa	Africa	1_Africa
+BantuKenya	HGDP01414	Kenya	Africa	Africa	1_Africa
+BantuKenya	HGDP01417	Kenya	Africa	Africa	1_Africa
+BantuKenya	HGDP01418	Kenya	Africa	Africa	1_Africa
+BantuKenya	HGDP01419	Kenya	Africa	Africa	1_Africa
+BantuSA	HGDP00994	Lesotho	Africa	Africa	1_Africa
+Ju_hoan_North	HGDP00987	Namibia	Africa	Africa	1_Africa
+Ju_hoan_North	HGDP00991	Namibia	Africa	Africa	1_Africa
+Ju_hoan_North	HGDP00992	Namibia	Africa	Africa	1_Africa
+Ju_hoan_North	HGDP01032	Namibia	Africa	Africa	1_Africa
+Ju_hoan_North	HGDP01036	Namibia	Africa	Africa	1_Africa
+Namibia_Bantu_Herero	HGDP01028	Namibia	Africa	Africa	1_Africa
+Namibia_Bantu_Herero	HGDP01035	Namibia	Africa	Africa	1_Africa
+Yoruba	HGDP00920	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00924	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00925	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00926	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00928	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00929	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00930	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00931	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00932	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00933	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00934	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00935	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00936	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00937	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00938	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00939	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00940	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00941	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00942	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00943	Nigeria	Africa	Africa	1_Africa
+Yoruba	HGDP00944	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18501	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18504	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18505	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18507	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18508	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18516	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18517	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18522	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18852	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18853	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18855	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18856	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18858	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18859	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18861	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18862	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18870	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA18871	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19093	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19098	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19099	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19101	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19102	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19116	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19119	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19127	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19128	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19130	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19131	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19137	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19138	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19141	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19143	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19144	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19159	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19160	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19171	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19193	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19201	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19203	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19204	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19206	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19207	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19209	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19210	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19222	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19223	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19238	Nigeria	Africa	Africa	1_Africa
+Yoruba	NA19239	Nigeria	Africa	Africa	1_Africa
+Mandenka	HGDP00904	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP00905	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP00906	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP00907	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP00908	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP00909	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP00910	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP00912	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP00913	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP00915	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP00917	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP01199	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP01200	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP01202	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP01283	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP01284	Senegal	Africa	Africa	1_Africa
+Mandenka	HGDP01286	Senegal	Africa	Africa	1_Africa
+BantuSA	HGDP00993	South Africa	Africa	Africa	1_Africa
+BantuSA	HGDP01033	South Africa	Africa	Africa	1_Africa
+Balochi	HGDP00052	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00054	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00056	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00058	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00062	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00064	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00066	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00068	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00072	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00074	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00078	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00080	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00082	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00086	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00088	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00090	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00092	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00094	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00096	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Balochi	HGDP00098	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00001	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00003	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00005	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00007	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00011	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00015	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00017	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00019	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00021	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00023	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00025	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00027	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00031	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00033	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00035	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00037	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00039	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00043	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00045	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00047	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Brahui	HGDP00049	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00336	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00338	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00341	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00346	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00351	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00356	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00359	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00364	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00371	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00372	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00382	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00388	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00392	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00402	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00407	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00412	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00417	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00423	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00428	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00433	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00438	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00444	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Burusho	HGDP00445	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00099	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00103	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00106	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00109	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00110	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00115	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00116	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00118	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00120	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00121	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00122	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00124	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00125	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Hazara	HGDP00127	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00277	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00281	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00285	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00286	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00288	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00290	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00298	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00302	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00307	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00311	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00313	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00315	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00319	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00323	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00328	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00330	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Kalash	HGDP00333	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00131	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00133	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00134	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00135	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00136	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00137	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00140	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00141	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00144	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00145	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00146	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00148	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00151	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00153	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00154	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00155	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00157	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00158	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00160	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Makrani	HGDP00161	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00213	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00216	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00218	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00222	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00224	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00226	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00228	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00232	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00241	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00243	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00244	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00248	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00254	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00258	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00259	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00262	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Pathan	HGDP00264	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00167	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00169	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00171	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00179	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00181	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00187	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00191	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00195	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00197	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00201	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00205	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00206	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00208	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+Sindhi_Pakistan	HGDP00210	Pakistan	CentralSouth Asia	CS Asia	2_CSAsia
+BedouinA	HGDP00609	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00611	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00613	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00614	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00615	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00619	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00620	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00622	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00625	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00626	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00628	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00629	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00632	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00634	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00635	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00637	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00638	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00639	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00640	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00642	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00644	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00645	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00646	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00647	Israel	West Asia	W Asia	2_WSAsia
+BedouinA	HGDP00654	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00607	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00608	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00610	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00612	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00616	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00618	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00623	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00624	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00630	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00631	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00636	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00641	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00643	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00648	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00649	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00650	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00651	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00653	Israel	West Asia	W Asia	2_WSAsia
+BedouinB	HGDP00701	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00557	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00558	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00559	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00560	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00561	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00562	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00563	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00564	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00565	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00566	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00567	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00568	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00569	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00571	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00572	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00573	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00574	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00575	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00577	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00578	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00579	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00580	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00582	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00583	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00584	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00586	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00587	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00588	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00591	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00594	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00595	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00597	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00598	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00599	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00600	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00601	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00602	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00604	Israel	West Asia	W Asia	2_WSAsia
+Druze	HGDP00606	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00675	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00676	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00677	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00679	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00680	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00683	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00684	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00685	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00686	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00687	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00688	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00689	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00690	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00691	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00694	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00696	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00697	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00698	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00699	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00700	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00722	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00724	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00725	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00726	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00727	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00729	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00730	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00731	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00732	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00733	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00734	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00735	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00736	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00737	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00739	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00740	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00741	Israel	West Asia	W Asia	2_WSAsia
+Palestinian	HGDP00745	Israel	West Asia	W Asia	2_WSAsia
+Basque	HGDP01357	France	Europe	Europe	3_Europe
+Basque	HGDP01358	France	Europe	Europe	3_Europe
+Basque	HGDP01359	France	Europe	Europe	3_Europe
+Basque	HGDP01360	France	Europe	Europe	3_Europe
+Basque	HGDP01362	France	Europe	Europe	3_Europe
+Basque	HGDP01363	France	Europe	Europe	3_Europe
+Basque	HGDP01364	France	Europe	Europe	3_Europe
+Basque	HGDP01365	France	Europe	Europe	3_Europe
+Basque	HGDP01366	France	Europe	Europe	3_Europe
+Basque	HGDP01367	France	Europe	Europe	3_Europe
+Basque	HGDP01368	France	Europe	Europe	3_Europe
+Basque	HGDP01370	France	Europe	Europe	3_Europe
+Basque	HGDP01371	France	Europe	Europe	3_Europe
+Basque	HGDP01373	France	Europe	Europe	3_Europe
+Basque	HGDP01374	France	Europe	Europe	3_Europe
+Basque	HGDP01375	France	Europe	Europe	3_Europe
+Basque	HGDP01377	France	Europe	Europe	3_Europe
+Basque	HGDP01378	France	Europe	Europe	3_Europe
+Basque	HGDP01379	France	Europe	Europe	3_Europe
+Basque	HGDP01380	France	Europe	Europe	3_Europe
+French	HGDP00511	France	Europe	Europe	3_Europe
+French	HGDP00512	France	Europe	Europe	3_Europe
+French	HGDP00513	France	Europe	Europe	3_Europe
+French	HGDP00514	France	Europe	Europe	3_Europe
+French	HGDP00515	France	Europe	Europe	3_Europe
+French	HGDP00516	France	Europe	Europe	3_Europe
+French	HGDP00517	France	Europe	Europe	3_Europe
+French	HGDP00518	France	Europe	Europe	3_Europe
+French	HGDP00519	France	Europe	Europe	3_Europe
+French	HGDP00522	France	Europe	Europe	3_Europe
+French	HGDP00523	France	Europe	Europe	3_Europe
+French	HGDP00524	France	Europe	Europe	3_Europe
+French	HGDP00525	France	Europe	Europe	3_Europe
+French	HGDP00526	France	Europe	Europe	3_Europe
+French	HGDP00527	France	Europe	Europe	3_Europe
+French	HGDP00528	France	Europe	Europe	3_Europe
+French	HGDP00529	France	Europe	Europe	3_Europe
+French	HGDP00531	France	Europe	Europe	3_Europe
+French	HGDP00533	France	Europe	Europe	3_Europe
+French	HGDP00534	France	Europe	Europe	3_Europe
+French	HGDP00535	France	Europe	Europe	3_Europe
+French	HGDP00536	France	Europe	Europe	3_Europe
+French	HGDP00537	France	Europe	Europe	3_Europe
+French	HGDP00538	France	Europe	Europe	3_Europe
+French	HGDP00539	France	Europe	Europe	3_Europe
+Orcadian	HGDP00794	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00796	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00797	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00798	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00799	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00800	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00802	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00803	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00805	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00806	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00807	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00808	Great Britain	Europe	Europe	3_Europe
+Orcadian	HGDP00810	Great Britain	Europe	Europe	3_Europe
+Italian_North	HGDP01147	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01151	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01152	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01153	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01155	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01156	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01157	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01161	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01162	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01163	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01164	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01166	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01167	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01168	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01169	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01171	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01172	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01173	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01174	Italy	Europe	Europe	3_Europe
+Italian_North	HGDP01177	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP00666	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP00667	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP00668	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP00669	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP00670	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP00671	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP00672	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP00673	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP00674	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01062	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01063	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01064	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01065	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01066	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01067	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01068	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01069	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01070	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01071	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01072	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01073	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01074	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01075	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01076	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01077	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01078	Italy	Europe	Europe	3_Europe
+Sardinian	HGDP01079	Italy	Europe	Europe	3_Europe
+Adygei	HGDP01381	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01382	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01383	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01385	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01386	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01387	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01396	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01397	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01398	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01399	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01400	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01401	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01402	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01403	Russia	Europe	Europe	3_Europe
+Adygei	HGDP01404	Russia	Europe	Europe	3_Europe
+Adygei	NA13626	Russia	Europe	Europe	3_Europe
+Russian	HGDP00879	Russia	Europe	Europe	3_Europe
+Russian	HGDP00880	Russia	Europe	Europe	3_Europe
+Russian	HGDP00882	Russia	Europe	Europe	3_Europe
+Russian	HGDP00883	Russia	Europe	Europe	3_Europe
+Russian	HGDP00884	Russia	Europe	Europe	3_Europe
+Russian	HGDP00887	Russia	Europe	Europe	3_Europe
+Russian	HGDP00888	Russia	Europe	Europe	3_Europe
+Russian	HGDP00889	Russia	Europe	Europe	3_Europe
+Russian	HGDP00890	Russia	Europe	Europe	3_Europe
+Russian	HGDP00891	Russia	Europe	Europe	3_Europe
+Russian	HGDP00892	Russia	Europe	Europe	3_Europe
+Russian	HGDP00893	Russia	Europe	Europe	3_Europe
+Russian	HGDP00894	Russia	Europe	Europe	3_Europe
+Russian	HGDP00895	Russia	Europe	Europe	3_Europe
+Russian	HGDP00896	Russia	Europe	Europe	3_Europe
+Russian	HGDP00897	Russia	Europe	Europe	3_Europe
+Russian	HGDP00898	Russia	Europe	Europe	3_Europe
+Russian	HGDP00899	Russia	Europe	Europe	3_Europe
+Russian	HGDP00900	Russia	Europe	Europe	3_Europe
+Russian	HGDP00901	Russia	Europe	Europe	3_Europe
+Russian	HGDP00902	Russia	Europe	Europe	3_Europe
+Russian	HGDP00903	Russia	Europe	Europe	3_Europe
+Cambodian	HGDP00713	Cambodia	East Asia	E Asia	4_Easia
+Cambodian	HGDP00714	Cambodia	East Asia	E Asia	4_Easia
+Cambodian	HGDP00715	Cambodia	East Asia	E Asia	4_Easia
+Cambodian	HGDP00716	Cambodia	East Asia	E Asia	4_Easia
+Cambodian	HGDP00717	Cambodia	East Asia	E Asia	4_Easia
+Cambodian	HGDP00719	Cambodia	East Asia	E Asia	4_Easia
+Cambodian	HGDP00720	Cambodia	East Asia	E Asia	4_Easia
+Cambodian	HGDP00721	Cambodia	East Asia	E Asia	4_Easia
+China_Lahu	HGDP01317	China	East Asia	E Asia	4_Easia
+China_Lahu	HGDP01318	China	East Asia	E Asia	4_Easia
+China_Lahu	HGDP01319	China	East Asia	E Asia	4_Easia
+China_Lahu	HGDP01320	China	East Asia	E Asia	4_Easia
+China_Lahu	HGDP01321	China	East Asia	E Asia	4_Easia
+China_Lahu	HGDP01322	China	East Asia	E Asia	4_Easia
+China_Lahu	HGDP01323	China	East Asia	E Asia	4_Easia
+China_Lahu	HGDP01326	China	East Asia	E Asia	4_Easia
+Dai	HGDP01307	China	East Asia	E Asia	4_Easia
+Dai	HGDP01308	China	East Asia	E Asia	4_Easia
+Dai	HGDP01309	China	East Asia	E Asia	4_Easia
+Dai	HGDP01310	China	East Asia	E Asia	4_Easia
+Dai	HGDP01311	China	East Asia	E Asia	4_Easia
+Dai	HGDP01312	China	East Asia	E Asia	4_Easia
+Dai	HGDP01313	China	East Asia	E Asia	4_Easia
+Dai	HGDP01314	China	East Asia	E Asia	4_Easia
+Dai	HGDP01315	China	East Asia	E Asia	4_Easia
+Dai	HGDP01316	China	East Asia	E Asia	4_Easia
+Daur	HGDP01213	China	East Asia	E Asia	4_Easia
+Daur	HGDP01214	China	East Asia	E Asia	4_Easia
+Daur	HGDP01215	China	East Asia	E Asia	4_Easia
+Daur	HGDP01216	China	East Asia	E Asia	4_Easia
+Daur	HGDP01217	China	East Asia	E Asia	4_Easia
+Daur	HGDP01218	China	East Asia	E Asia	4_Easia
+Daur	HGDP01220	China	East Asia	E Asia	4_Easia
+Daur	HGDP01221	China	East Asia	E Asia	4_Easia
+Daur	HGDP01222	China	East Asia	E Asia	4_Easia
+Han	HGDP00774	China	East Asia	E Asia	4_Easia
+Han	HGDP00775	China	East Asia	E Asia	4_Easia
+Han	HGDP00776	China	East Asia	E Asia	4_Easia
+Han	HGDP00777	China	East Asia	E Asia	4_Easia
+Han	HGDP00779	China	East Asia	E Asia	4_Easia
+Han	HGDP00780	China	East Asia	E Asia	4_Easia
+Han	HGDP00781	China	East Asia	E Asia	4_Easia
+Han	HGDP00782	China	East Asia	E Asia	4_Easia
+Han	HGDP00783	China	East Asia	E Asia	4_Easia
+Han	HGDP00784	China	East Asia	E Asia	4_Easia
+Han	HGDP00785	China	East Asia	E Asia	4_Easia
+Han	HGDP00786	China	East Asia	E Asia	4_Easia
+Han	HGDP00811	China	East Asia	E Asia	4_Easia
+Han	HGDP00812	China	East Asia	E Asia	4_Easia
+Han	HGDP00813	China	East Asia	E Asia	4_Easia
+Han	HGDP00814	China	East Asia	E Asia	4_Easia
+Han	HGDP00815	China	East Asia	E Asia	4_Easia
+Han	HGDP00817	China	East Asia	E Asia	4_Easia
+Han	HGDP00818	China	East Asia	E Asia	4_Easia
+Han	HGDP00819	China	East Asia	E Asia	4_Easia
+Han	HGDP00820	China	East Asia	E Asia	4_Easia
+Han	HGDP00821	China	East Asia	E Asia	4_Easia
+Han	HGDP00822	China	East Asia	E Asia	4_Easia
+Han	HGDP00971	China	East Asia	E Asia	4_Easia
+Han	HGDP00972	China	East Asia	E Asia	4_Easia
+Han	HGDP00973	China	East Asia	E Asia	4_Easia
+Han	HGDP00974	China	East Asia	E Asia	4_Easia
+Han	HGDP00975	China	East Asia	E Asia	4_Easia
+Han	HGDP00976	China	East Asia	E Asia	4_Easia
+Han	HGDP00977	China	East Asia	E Asia	4_Easia
+Han	HGDP01021	China	East Asia	E Asia	4_Easia
+Han	HGDP01023	China	East Asia	E Asia	4_Easia
+Han	HGDP01024	China	East Asia	E Asia	4_Easia
+Han	HGDP01287	China	East Asia	E Asia	4_Easia
+Han	HGDP01288	China	East Asia	E Asia	4_Easia
+Han	HGDP01289	China	East Asia	E Asia	4_Easia
+Han	HGDP01290	China	East Asia	E Asia	4_Easia
+Han	HGDP01291	China	East Asia	E Asia	4_Easia
+Han	HGDP01292	China	East Asia	E Asia	4_Easia
+Han	HGDP01293	China	East Asia	E Asia	4_Easia
+Han	HGDP01294	China	East Asia	E Asia	4_Easia
+Han	HGDP01295	China	East Asia	E Asia	4_Easia
+Han	HGDP01296	China	East Asia	E Asia	4_Easia
+Hezhen	HGDP01233	China	East Asia	E Asia	4_Easia
+Hezhen	HGDP01234	China	East Asia	E Asia	4_Easia
+Hezhen	HGDP01237	China	East Asia	E Asia	4_Easia
+Hezhen	HGDP01238	China	East Asia	E Asia	4_Easia
+Hezhen	HGDP01239	China	East Asia	E Asia	4_Easia
+Hezhen	HGDP01240	China	East Asia	E Asia	4_Easia
+Hezhen	HGDP01241	China	East Asia	E Asia	4_Easia
+Hezhen	HGDP01242	China	East Asia	E Asia	4_Easia
+Miao	HGDP01189	China	East Asia	E Asia	4_Easia
+Miao	HGDP01190	China	East Asia	E Asia	4_Easia
+Miao	HGDP01191	China	East Asia	E Asia	4_Easia
+Miao	HGDP01192	China	East Asia	E Asia	4_Easia
+Miao	HGDP01193	China	East Asia	E Asia	4_Easia
+Miao	HGDP01194	China	East Asia	E Asia	4_Easia
+Miao	HGDP01195	China	East Asia	E Asia	4_Easia
+Miao	HGDP01196	China	East Asia	E Asia	4_Easia
+Miao	HGDP01197	China	East Asia	E Asia	4_Easia
+Miao	HGDP01198	China	East Asia	E Asia	4_Easia
+Mongola	HGDP01223	China	East Asia	E Asia	4_Easia
+Mongola	HGDP01225	China	East Asia	E Asia	4_Easia
+Mongola	HGDP01227	China	East Asia	E Asia	4_Easia
+Mongola	HGDP01228	China	East Asia	E Asia	4_Easia
+Mongola	HGDP01231	China	East Asia	E Asia	4_Easia
+Mongola	HGDP01232	China	East Asia	E Asia	4_Easia
+Naxi	HGDP01337	China	East Asia	E Asia	4_Easia
+Naxi	HGDP01338	China	East Asia	E Asia	4_Easia
+Naxi	HGDP01339	China	East Asia	E Asia	4_Easia
+Naxi	HGDP01340	China	East Asia	E Asia	4_Easia
+Naxi	HGDP01341	China	East Asia	E Asia	4_Easia
+Naxi	HGDP01342	China	East Asia	E Asia	4_Easia
+Naxi	HGDP01344	China	East Asia	E Asia	4_Easia
+Naxi	HGDP01345	China	East Asia	E Asia	4_Easia
+Naxi	HGDP01346	China	East Asia	E Asia	4_Easia
+Oroqen	HGDP01203	China	East Asia	E Asia	4_Easia
+Oroqen	HGDP01204	China	East Asia	E Asia	4_Easia
+Oroqen	HGDP01205	China	East Asia	E Asia	4_Easia
+Oroqen	HGDP01206	China	East Asia	E Asia	4_Easia
+Oroqen	HGDP01207	China	East Asia	E Asia	4_Easia
+Oroqen	HGDP01208	China	East Asia	E Asia	4_Easia
+Oroqen	HGDP01209	China	East Asia	E Asia	4_Easia
+Oroqen	HGDP01211	China	East Asia	E Asia	4_Easia
+Oroqen	HGDP01212	China	East Asia	E Asia	4_Easia
+She	HGDP01327	China	East Asia	E Asia	4_Easia
+She	HGDP01328	China	East Asia	E Asia	4_Easia
+She	HGDP01329	China	East Asia	E Asia	4_Easia
+She	HGDP01330	China	East Asia	E Asia	4_Easia
+She	HGDP01331	China	East Asia	E Asia	4_Easia
+She	HGDP01332	China	East Asia	E Asia	4_Easia
+She	HGDP01333	China	East Asia	E Asia	4_Easia
+She	HGDP01334	China	East Asia	E Asia	4_Easia
+She	HGDP01335	China	East Asia	E Asia	4_Easia
+She	HGDP01336	China	East Asia	E Asia	4_Easia
+Tu	HGDP01347	China	East Asia	E Asia	4_Easia
+Tu	HGDP01348	China	East Asia	E Asia	4_Easia
+Tu	HGDP01349	China	East Asia	E Asia	4_Easia
+Tu	HGDP01350	China	East Asia	E Asia	4_Easia
+Tu	HGDP01351	China	East Asia	E Asia	4_Easia
+Tu	HGDP01352	China	East Asia	E Asia	4_Easia
+Tu	HGDP01353	China	East Asia	E Asia	4_Easia
+Tu	HGDP01354	China	East Asia	E Asia	4_Easia
+Tu	HGDP01355	China	East Asia	E Asia	4_Easia
+Tu	HGDP01356	China	East Asia	E Asia	4_Easia
+Tujia	HGDP01095	China	East Asia	E Asia	4_Easia
+Tujia	HGDP01096	China	East Asia	E Asia	4_Easia
+Tujia	HGDP01097	China	East Asia	E Asia	4_Easia
+Tujia	HGDP01098	China	East Asia	E Asia	4_Easia
+Tujia	HGDP01099	China	East Asia	E Asia	4_Easia
+Tujia	HGDP01100	China	East Asia	E Asia	4_Easia
+Tujia	HGDP01101	China	East Asia	E Asia	4_Easia
+Tujia	HGDP01102	China	East Asia	E Asia	4_Easia
+Tujia	HGDP01103	China	East Asia	E Asia	4_Easia
+Tujia	HGDP01104	China	East Asia	E Asia	4_Easia
+Uyghur	HGDP01297	China	East Asia	E Asia	4_Easia
+Uyghur	HGDP01298	China	East Asia	E Asia	4_Easia
+Uyghur	HGDP01299	China	East Asia	E Asia	4_Easia
+Uyghur	HGDP01300	China	East Asia	E Asia	4_Easia
+Uyghur	HGDP01301	China	East Asia	E Asia	4_Easia
+Uyghur	HGDP01302	China	East Asia	E Asia	4_Easia
+Uyghur	HGDP01303	China	East Asia	E Asia	4_Easia
+Uyghur	HGDP01304	China	East Asia	E Asia	4_Easia
+Uyghur	HGDP01305	China	East Asia	E Asia	4_Easia
+Uyghur	HGDP01306	China	East Asia	E Asia	4_Easia
+Xibo	HGDP01244	China	East Asia	E Asia	4_Easia
+Xibo	HGDP01245	China	East Asia	E Asia	4_Easia
+Xibo	HGDP01246	China	East Asia	E Asia	4_Easia
+Xibo	HGDP01248	China	East Asia	E Asia	4_Easia
+Xibo	HGDP01249	China	East Asia	E Asia	4_Easia
+Xibo	HGDP01250	China	East Asia	E Asia	4_Easia
+Xibo	HGDP01251	China	East Asia	E Asia	4_Easia
+Yi	HGDP01179	China	East Asia	E Asia	4_Easia
+Yi	HGDP01180	China	East Asia	E Asia	4_Easia
+Yi	HGDP01181	China	East Asia	E Asia	4_Easia
+Yi	HGDP01182	China	East Asia	E Asia	4_Easia
+Yi	HGDP01183	China	East Asia	E Asia	4_Easia
+Yi	HGDP01184	China	East Asia	E Asia	4_Easia
+Yi	HGDP01185	China	East Asia	E Asia	4_Easia
+Yi	HGDP01186	China	East Asia	E Asia	4_Easia
+Yi	HGDP01187	China	East Asia	E Asia	4_Easia
+Yi	HGDP01188	China	East Asia	E Asia	4_Easia
+Japanese	HGDP00747	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00748	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00749	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00750	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00751	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00752	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00753	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00754	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00755	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00756	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00757	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00758	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00759	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00760	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00761	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00762	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00763	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00764	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00765	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00766	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00767	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00768	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00769	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00771	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00772	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00773	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00790	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00791	Japan	East Asia	E Asia	4_Easia
+Japanese	HGDP00828	Japan	East Asia	E Asia	4_Easia
+Yakut	HGDP00945	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00946	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00947	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00948	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00950	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00951	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00952	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00954	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00955	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00956	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00958	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00960	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00961	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00962	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00963	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00964	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00965	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00966	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00967	Russia	East Asia	E Asia	4_Easia
+Yakut	HGDP00968	Russia	East Asia	E Asia	4_Easia
+Nasioi	HGDP00655	Papua New Guinea	Oceania	Oceania	5_Oceania
+Nasioi	HGDP00656	Papua New Guinea	Oceania	Oceania	5_Oceania
+Nasioi	HGDP00660	Papua New Guinea	Oceania	Oceania	5_Oceania
+Nasioi	HGDP00661	Papua New Guinea	Oceania	Oceania	5_Oceania
+Nasioi	HGDP00662	Papua New Guinea	Oceania	Oceania	5_Oceania
+Nasioi	HGDP00663	Papua New Guinea	Oceania	Oceania	5_Oceania
+Nasioi	HGDP00664	Papua New Guinea	Oceania	Oceania	5_Oceania
+Nasioi	HGDP00787	Papua New Guinea	Oceania	Oceania	5_Oceania
+Nasioi	HGDP00788	Papua New Guinea	Oceania	Oceania	5_Oceania
+Nasioi	HGDP01027	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00540	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00541	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00543	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00545	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00546	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00547	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00548	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00549	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00550	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00552	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00553	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00554	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00555	Papua New Guinea	Oceania	Oceania	5_Oceania
+Papuan	HGDP00556	Papua New Guinea	Oceania	Oceania	5_Oceania
+Karitiana	HGDP00995	Brazil	Americas	Americas	6_Americas
+Karitiana	HGDP00999	Brazil	Americas	Americas	6_Americas
+Karitiana	HGDP01001	Brazil	Americas	Americas	6_Americas
+Karitiana	HGDP01003	Brazil	Americas	Americas	6_Americas
+Karitiana	HGDP01006	Brazil	Americas	Americas	6_Americas
+Karitiana	HGDP01010	Brazil	Americas	Americas	6_Americas
+Karitiana	HGDP01012	Brazil	Americas	Americas	6_Americas
+Karitiana	HGDP01013	Brazil	Americas	Americas	6_Americas
+Karitiana	HGDP01014	Brazil	Americas	Americas	6_Americas
+Karitiana	HGDP01015	Brazil	Americas	Americas	6_Americas
+Karitiana	HGDP01018	Brazil	Americas	Americas	6_Americas
+Karitiana	HGDP01019	Brazil	Americas	Americas	6_Americas
+Surui	HGDP00832	Brazil	Americas	Americas	6_Americas
+Surui	HGDP00837	Brazil	Americas	Americas	6_Americas
+Surui	HGDP00838	Brazil	Americas	Americas	6_Americas
+Surui	HGDP00843	Brazil	Americas	Americas	6_Americas
+Surui	HGDP00845	Brazil	Americas	Americas	6_Americas
+Surui	HGDP00846	Brazil	Americas	Americas	6_Americas
+Surui	HGDP00849	Brazil	Americas	Americas	6_Americas
+Surui	HGDP00852	Brazil	Americas	Americas	6_Americas
+Piapoco	HGDP00702	Colombia	Americas	Americas	6_Americas
+Piapoco	HGDP00704	Colombia	Americas	Americas	6_Americas
+Piapoco	HGDP00706	Colombia	Americas	Americas	6_Americas
+Piapoco	HGDP00970	Colombia	Americas	Americas	6_Americas
+Mayan	HGDP00854	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00855	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00856	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00857	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00858	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00859	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00861	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00862	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00863	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00864	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00865	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00868	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00869	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00870	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00872	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00873	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00875	Mexico	Americas	Americas	6_Americas
+Mayan	HGDP00877	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01037	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01041	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01043	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01044	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01047	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01050	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01051	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01053	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01055	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01056	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01057	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01058	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01059	Mexico	Americas	Americas	6_Americas
+Pima	HGDP01060	Mexico	Americas	Americas	6_Americas
+Mexico_PreColumbian_CH_MOM6.SG_LowCov	MOM6.SG	Mexico	Ancient Tarahumara	Tarahumara	7_AT
+Mexico_Pre_Columbian_mummy.SG_LowCov	F9.SG	Mexico	Ancient Tarahumara	Tarahumara	7_AT
+Mexico_Pericues.SG	BC25.SG	Mexico	Ancient Pericues	Pericues	8_AP
+Mexico_Pericues.SG	BC29.SG	Mexico	Ancient Pericues	Pericues	8_AP
+Mexico_Pericues.SG	BC30.SG	Mexico	Ancient Pericues	Pericues	8_AP
+Mexico_Pericues.SG_LowCov	BC23.SG	Mexico	Ancient Pericues	Pericues	8_AP
+Mexico_Pericues.SG_LowCov	BC27.SG	Mexico	Ancient Pericues	Pericues	8_AP
+Mexico_Pericues.SG_LowCov	BC28.SG	Mexico	Ancient Pericues	Pericues	8_AP
+Argentina_Fuego_Patagonian_LowCov.SG	MA572.SG	Argentina	Ancient FuegoPatagonian	FuegoPat	9_AFP
+Argentina_Fuego_Patagonian_LowCov.SG	MA575.SG	Argentina	Ancient FuegoPatagonian	FuegoPat	9_AFP
+Argentina_Fuego_Patagonian.SG	Yaghan890.SG	Argentina	Ancient FuegoPatagonian	FuegoPat	9_AFP
+Argentina_Fuego_Patagonian.SG	Yaghan894.SG	Argentina	Ancient FuegoPatagonian	FuegoPat	9_AFP
+Argentina_Fuego_Patagonian.SG	Yaghan895.SG	Argentina	Ancient FuegoPatagonian	FuegoPat	9_AFP
+Argentina_Fuego_Patagonian.SG	MA577.SG	Argentina	Ancient FuegoPatagonian	FuegoPat	9_AFP
+Chile_Fuego_Patagonian.SG	AM71.SG	Chile	Ancient FuegoPatagonian	FuegoPat	9_AFP
+Chile_Fuego_Patagonian.SG	AM66.SG	Chile	Ancient FuegoPatagonian	FuegoPat	9_AFP
+Chile_Fuego_Patagonian.SG	AM73.SG	Chile	Ancient FuegoPatagonian	FuegoPat	9_AFP
+Chile_Fuego_Patagonian.SG	AM74.SG	Chile	Ancient FuegoPatagonian	FuegoPat	9_AFP
+Chile_Fuego_Patagonian.SG_LowCov	AM72.SG	Chile	Ancient FuegoPatagonian	FuegoPat	9_AFP
