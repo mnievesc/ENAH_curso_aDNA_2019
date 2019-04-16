@@ -94,6 +94,8 @@ Scripts for generating PCA and ADMIXTURE plots.
 ### 3.1 The research question: What do we want to know?
 Any ancient DNA study must begin with a **clearly defined research question**. The question will guide us in formulating and testing hypotheses, designing sampling strategies and choosing an analytical framework. In this exercise, we will analyze ancient DNA genotypes to revisit a very old question in the anthropology of the Americas: the "Paleoamerican" model. We will replicate analyses conducted in _Raghavan et al. 2015. "Genomic evidence for the Pleistocene and recent population history of Native Americans". Science 349 (6250): aab3884._. In this study the researchers used ancient DNA to test if Pleistocene Native American peoples were more closely related to present-day Australo-Melanesians than to today's Indigenous American communities.
 
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex3_PCA_ADMIXTURE/images/927432-7fab383de04cbc6b3f991cd0e69591cc.jpg)
+
 &nbsp;
 
 ### Some background
@@ -213,3 +215,6 @@ After completing all steps, answer the following questions:
 5. Raghavan et al. 2015. "Genomic evidence for the Pleistocene and recent population history of Native Americans". Science 349 (6250): aab3884.
 
 6. Stoneking, M. and J. Krause. "Learning about human population history from ancient and modern genomes" Nature Reviews Genetics 12: 603-614.
+
+7. Peopling the Americas image: http://resourcesforhistoryteachers.pbworks.com/w/page/123832947/Peopling%20of%20the%20Americas
+
