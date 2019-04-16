@@ -6,7 +6,7 @@
 
 ---
 ### Learning Objectives:
-In this tutorial we will conduct analyses of ancient DNA genotypes to test the "Paleoamerican"model. We will replicate analyses conducted in  _Raghavan et al. 2015. "Genomic evidence for the Pleistocene and recent population history of Native Americans". Science 349 (6250): aab3884._. Specifically, we will use Rstudio to plot the results of principal components (PCA) and ADMIXTURE analyses on genotypes from ancient and present-day human populations. At the end of this exercise students should:
+In this tutorial we will conduct analyses of ancient DNA genotypes to test the "Paleoamerican"model. We will replicate analyses conducted in  _Raghavan et al. 2015. "Genomic evidence for the Pleistocene and recent population history of Native Americans". Science 349 (6250): aab3884_. Specifically, we will use Rstudio to plot the results of principal components (PCA) and ADMIXTURE analyses on genotypes from ancient and present-day human populations. At the end of this exercise students should:
 * Understand how to use multivariate and unsupervised approaches to make inferences and test hypotheses about human population history.
 * Become familiar with input and output files from programs such as plink, smartpca and ADMIXTURE, which are commonly used to perform analyses with ancient DNA data.
 * Understand how to choose comparative or reference populations for analyses.
@@ -127,7 +127,7 @@ PCA is a multivariate analysis method which summarizes the variation present in 
 
 Open Rstudio on your computer. Use the bottom right window to navigate to the folder for exercise 3. Set this as your Working Directory by clicking on the **More** button and selecting the **Set as Working Directory** option.
 
-INSERT SCREENSHOT 1 HERE
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex3_PCA_ADMIXTURE/images/Screen%20Shot%202019-04-16%20at%205.23.15%20PM.png)
 
 Alternatively, you can set the working directory using the console by providing the path directly. In this example my files are stored on my Desktop:
 ```
@@ -139,7 +139,7 @@ Within the Rstudio environment, click on script `get_smartPCA_plot.R`. This scri
 
 To run the full script without making any changes you can click on the **Source** button on the top right menu or you can select the full block of code and click on **Run**. If you want to explore what the commands do, you can select blocks of code and run them one by one with this button as well.
 
-INSERT SCREENSHOT 2
+![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex3_PCA_ADMIXTURE/images/Screen%20Shot%202019-04-16%20at%205.46.29%20PM.png)
 
 
 This script will output a PDF file `Ancient+HGDP.smartpca.pdf` with three pages, displaying plots for PC1 vs 2, PC 1 vs 3 and PC 2 vs 3.
