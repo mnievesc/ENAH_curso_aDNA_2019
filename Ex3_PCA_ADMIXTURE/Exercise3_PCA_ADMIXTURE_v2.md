@@ -108,7 +108,8 @@ Raghavan et al. (2015) sequenced the genomes of 17 putative ancient "Paleoameric
 - 11 individuals attributed to the Yaghan (Yamaná), Kawskar (Alacalúf) and Selknam (Ona) cultures from several archaeological contexts in Tierra del Fuego, Patagonia and the Chilean Pacific coast.
 Additionally, they also sequenced the genomes of two ancient Tarahumara mummies representing ancient Native American peoples with skull morphology that are not associated to the Paleoamerican migration.
 
-In this exercise, we will use the data generated in the Raghavan et al. (2015) study to replicate their test of the Paleoamerican model.  Specifically we want to answer the following research questions:
+&nbsp;
+**In this exercise, we will use the data generated in the Raghavan et al. (2015) study to replicate their test of the Paleoamerican model.  Specifically we want to answer the following research questions:**
 1. Are the Pericúes and Fuego-Patagonians genetically distinct from other Native American groups?
 2. Do the Pericúes and Fuego-Patagonians fall within the known genetic variation of present-day Oceanian populations?
 
