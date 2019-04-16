@@ -218,5 +218,3 @@ After completing all steps, answer the following questions:
 
 6. Stoneking, M. and J. Krause. "Learning about human population history from ancient and modern genomes" Nature Reviews Genetics 12: 603-614.
 
-7. Peopling the Americas image: http://resourcesforhistoryteachers.pbworks.com/w/page/123832947/Peopling%20of%20the%20Americas
-
