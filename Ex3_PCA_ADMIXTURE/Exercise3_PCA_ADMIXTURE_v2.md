@@ -168,6 +168,7 @@ ADMIXTURE is an example of unsupervised analyses which assigns individual genoty
 Open the first file `Ancient+HGDP.ADMIXTURE.CVerror.pdf`. This plot displays the cross-validation (CV) error associated with each K estimate. (You can also see the raw CV error in the ADMIXTURE log files within the output folder.)
 
 &nbsp;
+
 **Examine the CV plot and answer the following questions:**
 * Which estimate of K has the lowest CV error?
 
@@ -177,6 +178,7 @@ Open the first file `Ancient+HGDP.ADMIXTURE.CVerror.pdf`. This plot displays the
 Next, lets open the remaining three PDF files to examine the ADMIXTURE barplots. Remember that each plot actually composed of individual bars. Every bar represents an individual, and the colors represent the proportions of estimated ancestry that correspond to each component of K. As before, this analysis does not consider pre-defined individual or group labels. But in the plot we have grouped the present-day populations according to the HGDP classification. Each region is divided by white space. The ancient Tarahumara, Pericúes and FuegoPatagonian individuals are placed at the far right end of the plot.
 
 &nbsp;
+
 **Examine the barplots and answer the following questions:**
 * Which global populations do the ancient Pericúes and FuegoPatagonians share ancestry with?
 * What inferences can you draw about the population structure of the ancient Pericúes and FuegoPatagonians?
