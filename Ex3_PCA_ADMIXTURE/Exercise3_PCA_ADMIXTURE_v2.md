@@ -31,14 +31,14 @@ Ancient+HGDP.fam
 ```
 For this exercise we will work with publicly available ancient DNA data downloaded from the Reich Lab website: https://reich.hms.harvard.edu/downloadable-genotypes-present-day-and-ancient-dna-data-compiled-published-papers. This dataset includes merged autosomal genotypes for both ancient and present-day human populations. The data was generated on the Affymetrix Human Origins array (for modern samples) or the 1240K capture (for ancient samples), and includes genotypes for 597,573 autosomal positions. The dataset on the website includes genotypes for over 7,000 individuals. Today we we will work with a subset of 892 genotypes which includes 19 ancient individuals and 873 present-day individuals from the Human Genome Diversity Panel (HGDP). These were transformed to plink format using the CONVERTF module within the EIGENSTRAT suite (https://github.com/DReichLab/EIG/tree/master/EIGENSTRAT) and plink 1.9 (https://www.cog-genomics.org/plink2) and were used for performing ADMIXTURE and smartpca analyses.
 
-
+&nbsp;
 #### 2. Popinfo file
 ```
 Ancient+HGDP.popinfo.text
 ```
 Text-delimited file listing metadata for our working dataset, including individual and population IDs, country of origin, and labels for PCA and ADMIXTURE plots.
 
-
+&nbsp;
 #### 3. Smartpca files
 ```
 Ancient+HGDP.eval
@@ -52,7 +52,7 @@ Smartpca was run with command: `smartpca -p Ancient+HGDP.smartpca.par`. PCA eige
 Input files: EIGENSTRAT format files `.snp`, `.ind`, and `.geno`. Generated with CONVERTF module. The `.par` file specifies parameters for running smartpca. The `poplist`files lists all the populations used to construct the PCA eigenvectors.
 Output files: Smartpca output `.evec` and `.eval` files.
 
-
+&nbsp;
 #### 4. ADMIXTURE files
 ```
 Ancient+HGDP.LDpruned.bed
@@ -78,7 +78,7 @@ Input files: Plink format files after LD pruning . The script used to prune the 
 Output files: ADMIXTURE output, one file per value of K, `.Q` files list the estimated ancestry proportions, `.P`files list allele frequencies, .`log` files from ADMIXTURE run and `Kcomparison.txt` lists the cross validation error per run of K.
 
 
-
+&nbsp;
 ### 5. Rscripts
 ```
 get_smartPCA_plot.R
@@ -186,7 +186,7 @@ Next, lets open the remaining three PDF files to examine the ADMIXTURE barplots.
 
 _NOTE:_ Remember that ADMIXTURE analyses will always give us an estimate, regardless of wether or not the true population history is reflected in the predetermined K values we have tested for.
 
-
+&nbsp;
 ---
 
 ### Bringing it all together
