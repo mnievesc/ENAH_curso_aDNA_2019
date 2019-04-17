@@ -1,0 +1,8 @@
+genotypename: Ancient+HGDP.geno
+snpname: Ancient+HGDP.snp
+indivname: Ancient+HGDP.ind
+evecoutname: Ancient+HGDP.evec
+evaloutname: Ancient+HGDP.eval
+poplistname: poplist
+lsqproject: YES
+numoutlieriter: 0
