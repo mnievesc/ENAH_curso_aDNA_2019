@@ -54,6 +54,7 @@ Ancient+HGDP.smartpca.par
 Smartpca was run with command: `smartpca -p Ancient+HGDP.smartpca.par`. PCA eigenvectors were constructed with modern populations and the ancient individuals were projected on top using hte `lsqproject` option.
 Input files: EIGENSTRAT format files `.snp`, `.ind`, and `.geno`. Generated with CONVERTF module. The `.par` file specifies parameters for running smartpca. The `poplist`files lists all the populations used to construct the PCA eigenvectors.
 Output files: Smartpca output `.evec` and `.eval` files.
+
 _Note: The .geno file is too big to upload via Github, but is available upon request._
 
 
