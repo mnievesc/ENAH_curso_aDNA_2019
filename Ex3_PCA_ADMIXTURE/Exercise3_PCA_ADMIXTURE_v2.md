@@ -25,7 +25,7 @@ In this tutorial we will conduct analyses of ancient DNA genotypes to test the "
 ### Input files:
 #### 1. Plink files containing merged ancient genotypes with comparative population data
 ```
-Ancient+HGDP.bed
+Ancient+HGDP.bed (_Note: This file is too big to upload via Github, but is available upon request._)
 Ancient+HGDP.bim
 Ancient+HGDP.fam
 ```
@@ -45,7 +45,7 @@ Ancient+HGDP.eval
 Ancient+HGDP.evec
 Ancient+HGDP.snp
 Ancient+HGDP.ind
-Ancient+HGDP.geno
+Ancient+HGDP.geno  (_Note: This file is too big to upload via Github, but is available upon request._)
 Ancient+HGDP.smartpca.par
 ```
 Smartpca was run with command: `smartpca -p Ancient+HGDP.smartpca.par`. PCA eigenvectors were constructed with modern populations and the ancient individuals were projected on top using hte `lsqproject` option.
