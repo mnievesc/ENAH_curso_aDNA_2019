@@ -25,11 +25,13 @@ In this tutorial we will conduct analyses of ancient DNA genotypes to test the "
 ### Input files:
 #### 1. Plink files containing merged ancient genotypes with comparative population data
 ```
-Ancient+HGDP.bed _Note: This file is too big to upload via Github, but is available upon request._
+Ancient+HGDP.bed 
 Ancient+HGDP.bim
 Ancient+HGDP.fam
 ```
 For this exercise we will work with publicly available ancient DNA data downloaded from the Reich Lab website: https://reich.hms.harvard.edu/downloadable-genotypes-present-day-and-ancient-dna-data-compiled-published-papers. This dataset includes merged autosomal genotypes for both ancient and present-day human populations. The data was generated on the Affymetrix Human Origins array (for modern samples) or the 1240K capture (for ancient samples), and includes genotypes for 597,573 autosomal positions. The dataset on the website includes genotypes for over 7,000 individuals. Today we we will work with a subset of 892 genotypes which includes 19 ancient individuals and 873 present-day individuals from the Human Genome Diversity Panel (HGDP). These were transformed to plink format using the CONVERTF module within the EIGENSTRAT suite (https://github.com/DReichLab/EIG/tree/master/EIGENSTRAT) and plink 1.9 (https://www.cog-genomics.org/plink2) and were used for performing ADMIXTURE and smartpca analyses.
+
+_Note: The .bed file is too big to upload via Github, but is available upon request._
 
 &nbsp;
 #### 2. Popinfo file
@@ -45,12 +47,15 @@ Ancient+HGDP.eval
 Ancient+HGDP.evec
 Ancient+HGDP.snp
 Ancient+HGDP.ind
-Ancient+HGDP.geno  _Note: This file is too big to upload via Github, but is available upon request._
+Ancient+HGDP.geno
+
 Ancient+HGDP.smartpca.par
 ```
 Smartpca was run with command: `smartpca -p Ancient+HGDP.smartpca.par`. PCA eigenvectors were constructed with modern populations and the ancient individuals were projected on top using hte `lsqproject` option.
 Input files: EIGENSTRAT format files `.snp`, `.ind`, and `.geno`. Generated with CONVERTF module. The `.par` file specifies parameters for running smartpca. The `poplist`files lists all the populations used to construct the PCA eigenvectors.
 Output files: Smartpca output `.evec` and `.eval` files.
+_Note: The .geno file is too big to upload via Github, but is available upon request._
+
 
 &nbsp;
 #### 4. ADMIXTURE files
