@@ -1,4 +1,7 @@
-# ENAH Ancient DNA course 2019
-## By
+# Curso de Paleogenómica y Antropología ENAH
 
-This repost
+## May 6-10, 2019
+
+**Author:** Maria Nieves Colón (maria.nieves@cinvestav.mx / mnievesc@asu.edu)
+
+This repository contains practical excercises in data analysis for the special course on paleogenomics and anthropology. 
