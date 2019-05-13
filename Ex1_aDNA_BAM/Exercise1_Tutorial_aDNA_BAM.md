@@ -88,7 +88,7 @@ Navigate to the folder **QualimapReports**. This contains 3 PDF reports generate
 
 ![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex1_aDNA_BAM/images/B67DF7C9FE335A22798527D728F7C93C.png)
 
-* Examine the **genome fraction coverage** plots included in the report. What is this plot telling you? How is this information different than that provided by the coverage histograms? Exampled for IndA:
+* Examine the **genome fraction coverage** plots included in the report. What is this plot telling you? How is this information different than that provided by the coverage histograms? Example for IndA:
 
 ![alt text](https://github.com/mnievesc/ENAH_curso_aDNA_2019/blob/master/Ex1_aDNA_BAM/images/61D539E70ECC70199A518211478A67DA.png)
 
