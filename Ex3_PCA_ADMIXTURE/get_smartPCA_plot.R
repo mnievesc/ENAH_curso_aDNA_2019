@@ -85,8 +85,8 @@ pc1v3 = x2 + geom_point(data=ancients, size=3, alpha = 0.80,
 x3 <- ggplot(refpops, aes(x = PC2, y = PC3)) +
   geom_point(size=3, alpha = 0.75, aes(color=PCALabelID)) +
   theme_bw() + scale_colour_brewer("Region", palette = "Set1") + 
-  labs(x=paste("Principal Component 1 (",pcvar[1],"%)",sep=""),
-       y=paste("Principal Component 2 (",pcvar[2],"%)",sep="") ) 
+  labs(x=paste("Principal Component 2 (",pcvar[1],"%)",sep=""),
+       y=paste("Principal Component 3 (",pcvar[2],"%)",sep="") ) 
 pc2v3 = x3 + geom_point(data=ancients, size=3, alpha = 0.65, 
                            aes(shape=factor(PCALabelID))) +  labs(shape='Ancient Mexico')
 
